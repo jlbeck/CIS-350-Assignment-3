@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+ * Josh Beck
+ * Prototype 2
+ * Moves projectile and animals forward at constant velocity
+ */
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

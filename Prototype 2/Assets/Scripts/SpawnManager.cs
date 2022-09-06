@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+ * Josh Beck
+ * Prototype 2
+ * Controls random spawning of animal targets
+ */
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

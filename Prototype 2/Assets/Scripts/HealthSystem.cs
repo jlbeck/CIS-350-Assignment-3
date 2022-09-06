@@ -1,4 +1,9 @@
-﻿//This script is based on https://www.youtube.com/watch?v=3uyolYVsiWc
+﻿/*
+ * Josh Beck
+ * Prototype 2
+ * Maintains health system and allows visual UI to update as damage is taken
+ */
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

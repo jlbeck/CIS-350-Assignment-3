@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+ * Josh Beck
+ * Prototype 2
+ * Allows player to shoot food projectiles
+ */
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+ * Josh Beck
+ * Prototype 2
+ * Destroys food and animals when they are out of camera view
+ */
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

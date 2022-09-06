@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+ * Josh Beck
+ * Prototype 2
+ * Detects collisions between food projectile and animals and handles them
+ */
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
